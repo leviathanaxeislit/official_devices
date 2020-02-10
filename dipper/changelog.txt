@@ -1,1 +1,22 @@
-hello world
+Added XiaomiParts
+Updated DPM and WFD from Jasmine
+Updated Gps from Jasmine
+Updated QMI from Jasmine
+update Radio/IMS blobs from jasmine
+update Thermal blobs from jasmine
+update Audio from jasmine
+update ESE-Powermanager from jasmine
+update Bluetooth/Ant+ from jasmine
+update TimeService from jasmine
+update PowerOffAlarm from jasmine
+update Perf/IOP from jasmine
+update CDSP from jasmine
+update Listen/Media from jasmine
+Rendering Improvements
+sync audio with jasmine Q configs
+Disable animateScreenLights
+don't inject IccPhoneBookInterfaceManager
+Removed dex flags
+Revert to old blobs camera
+Upstreamed to rad-x3.3
+Merged Feb security patch
