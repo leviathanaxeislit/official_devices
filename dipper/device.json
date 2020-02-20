@@ -1,13 +1,13 @@
 {
-	"error": false,
-	"donate_url": "",
-	"website_url": "",
+	"error": true,
+	"donate_url": "https://www.paypal.me/ethanhalsall",
+	"website_url": "https://revengeos.com/",
 	"news_url": "",
-	"datetime": 1681195309,
-	"filename": "RevengeOS-3.1-Q-OFFICIAL-dipper-20200208-1103.zip",
+	"datetime": 1582236148,
+	"filename": "RevengeOS-3.1-Q-OFFICIAL-dipper-20200220-2059.zip",
 	"id": "",
-	"size": 0,
-	"url": "https://drive.google.com/open?id=1WhKNdLdr8YVu1NfDAFxFdLydT5uwU1fU",
+	"size": 754,
+	"url": "https://drive.google.com/open?id=1uDYlxWAvd5lVGYsjAKx5MJ34dTeMFLlb",
 	"version": "3.1",
 	"filehash": ""
 }
